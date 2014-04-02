@@ -1,4 +1,6 @@
-# Light Jekyll scaffold (using CoffeeScript and Sass)
+# Light Jekyll scaffold
+
+Jekyll scaffolding for using CoffeeScript and Sass.
 
     gem install jekyll
     gem install foreman
